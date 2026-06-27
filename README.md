@@ -23,7 +23,7 @@ location: Vietnam
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=nodejs,vscode,visualstudio,git,github,docker"/>
+<img src="https://skillicons.dev/icons?i=nodejs,vscode,visualstudio,git,github,docker,ps,ai"/>
 
 ---
 
