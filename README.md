@@ -17,7 +17,7 @@ location: Vietnam
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php,html,css,js,ts"/>
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=express,nestjs,flask,next,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=dotnet,express,nestjs,flask,next,tailwind,bootstrap"/>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
