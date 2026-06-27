@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Khoa 👋
 
-<!--
-**KhoaDo472005/KhoaDo472005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=3000&pause=1500&center=true&vCenter=true&width=435&lines=IT+Student;Anime+Enjoyer;Always+Learning+New+Things">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+name: Khoa  
+role: IT Student  
+location: Vietnam  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php,html,css,js,ts"/>
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,next,tailwind,bootstrap"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker"/>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhoaDo472005&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaDo472005&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KhoaDo472005&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting 👀
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=KhoaDo472005">
+</p>
