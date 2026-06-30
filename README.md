@@ -29,9 +29,9 @@ location: Vietnam
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhoaDo472005&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats-ten-alpha-pqibm0gm6x.vercel.app/api?username=KhoaDo472005&show_icons=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaDo472005&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats-ten-alpha-pqibm0gm6x.vercel.app/api/top-langs/?username=KhoaDo472005&layout=compact&theme=tokyonight">
 </p>
 
 ---
