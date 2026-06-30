@@ -1,7 +1,7 @@
 # Hi there, I'm Khoa 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&duration=3000&pause=1500&center=true&vCenter=true&width=435&lines=IT+Student;Anime+Enjoyer;Always+Learning+New+Things">
+  <img src="https://gradient-typing-svg.vercel.app/api/svg?lines=IT+Student%3BAnime+Enjoyer%3BAlways+Learning+New+Things&width=500&height=60&size=28&weight=600&font=%27JetBrains+Mono%27%2C+monospace&align=center&grad=linear&angle=90&stops=7c6aff%2C0%3Bf472b6%2C100&cursor=true&cursorChar=%7C&pause=1500&delay=400&typeSpeed=70&deleteSpeed=40&bg=transparent">
 </p>
 
 ## 🚀 About Me
